@@ -1,0 +1,26 @@
+# ─────────────────────────────────────────────
+# AI Vision Studio — Dependencies
+# ─────────────────────────────────────────────
+
+# UI
+streamlit==1.35.0
+
+# LangChain + OpenAI
+langchain==0.2.1
+langchain-openai==0.1.7
+langchain-community==0.2.1
+openai>=1.30.0
+
+
+# Image handling
+Pillow==10.3.0
+requests==2.32.2
+
+# Database
+sqlalchemy==2.0.30
+
+# Config
+python-dotenv==1.0.1
+
+# Utilities
+tenacity==8.3.0
